@@ -10,4 +10,6 @@ int main(){
     amount2 = quantity2*unit_price2;
     total = amount1+amount2;
     printf("VALOR A PAGAR: R$ %.2f\n",total);
+
+    return 0;
 }
